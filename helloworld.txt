@@ -1,3 +1,4 @@
 Hello World Excited!! YEHEY 
 
 This is the COMET WORKSHOP!
+Sa Filipino: Eto ang Workshop para sa GIT galing sa COMET
